@@ -1,6 +1,7 @@
 # 👩‍💻 Sobre mim
 - 🚀 Apaixonado por tecnologia e programação  
-- 📚 Estudando desenvolvimento web, mobile e back-end  
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas  
+- 📚 Estudando desenvolvimento web, Java, JavaScript, (Back-end)
 - 💡 Sempre buscando aprender novas linguagens e ferramentas  
 
 ---
