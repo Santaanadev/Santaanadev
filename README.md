@@ -8,11 +8,10 @@ Sou responsável pelo desenvolvimento do Trevo, um sistema de agendamento já em
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql,java,git" />
 </p>
-PHP • MySQL • Java • APIs REST • Git
 
 ### Projeto principal
 🔗 Trevo - Sistema de agendamento
-(https://github.com/Santaanadev/trevo-agendamento-saas-demo)
+https://github.com/Santaanadev/trevo-agendamento-saas-demo
 
 ---
 
