@@ -1,11 +1,18 @@
-almente trabalho no Trevo, um sistema de agendamento já em uso por clientes reais, onde sou responsável pela lógica da aplicação, modelagem do banco de dados e regras de negócio.
+## Desenvolvedor Backend
+
+Desenvolvo sistemas com foco em backend, APIs e banco de dados.
+
+Sou responsável pelo desenvolvimento do Trevo, um sistema de agendamento já em uso por clientes reais, onde atuo na construção da lógica da aplicação, modelagem do banco de dados e implementação das regras de negócio.
 
 ### Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,java,git" />
+</p>
 PHP • MySQL • Java • APIs REST • Git
 
 ### Projeto principal
 🔗 Trevo - Sistema de agendamento
-(link do repo)
+(https://github.com/Santaanadev/trevo-agendamento-saas-demo)
 
 ---
 
