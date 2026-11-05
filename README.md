@@ -1,38 +1,29 @@
-<h1 align="left">Ian Santana</h1>
+# Ian Santana
 
-**Desenvolvedor Backend** · PHP · Java · Python · MySQL · Feira de Santana, BA 🇧🇷
+Desenvolvedor fullstack em Feira de Santana, BA.
 
-Construo sistemas web com foco em backend: regras de negócio, APIs e modelagem de banco de dados.
+Trabalho com PHP, Java, Python e MySQL no backend e com JavaScript, HTML e CSS no frontend. Hoje meu foco principal é o Trevo, um sistema de agendamento que desenvolvi e mantenho, usado por barbearias, clínicas e outros prestadores de serviço.
 
-Hoje desenvolvo e mantenho o **Trevo**, um SaaS de agendamento multi-tenant **em produção, com clientes reais**: barbearias, clínicas e prestadores de serviço. Sou responsável pela aplicação de ponta a ponta, da modelagem do banco ao deploy.
+Estou aberto a vagas como desenvolvedor e a projetos freelance.
 
-> 💼 Aberto a vagas de **desenvolvedor backend** e a **projetos sob demanda** (sistemas de agendamento, painéis administrativos, sistemas internos).
+<a href="https://www.linkedin.com/in/santanadev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://agendatrevo.com"><img src="https://img.shields.io/badge/agendatrevo.com-2EA44F?style=for-the-badge" alt="Trevo"/></a>
 
-<a href="https://www.linkedin.com/in/santanadev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://templyapp.com.br"><img src="https://img.shields.io/badge/Trevo_em_produção-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Trevo"/></a>
-
----
-
-### 🛠️ Stack
+## Tecnologias
 
 <img src="https://skillicons.dev/icons?i=php,java,python,mysql,js,html,css,git,github,aws,linux" />
 
----
+## Trevo
 
-### 🚀 Projeto em destaque: Trevo
+Sistema de agendamento online multi-tenant: cada negócio tem sua própria agenda, serviços e clientes dentro da mesma aplicação. Está em produção, com clientes usando no dia a dia.
 
-SaaS de agendamento multi-tenant, usado por negócios reais.
+- Agendamento com controle de horários disponíveis e bloqueio de conflitos
+- Painel administrativo para gerenciar serviços e clientes
+- Feito com PHP, MySQL e JavaScript
 
-- **Agenda com controle de disponibilidade** e prevenção de conflitos de horário
-- **Multi-tenant**: dados de cada negócio isolados na mesma aplicação
-- **Painel administrativo** para gestão de serviços e clientes
-- **Stack:** PHP · MySQL · JavaScript
+Site: [agendatrevo.com](https://agendatrevo.com)
 
-🌐 [Ver o sistema](https://templyapp.com.br) · 🎥 [Vídeo de demonstração](https://youtu.be/jfVHsjZxKdQ) · 📄 [Repositório demo](https://github.com/Santaanadev/trevo-agendamento-saas-demo)
+Repositório de demonstração: [trevo-agendamento-saas-demo](https://github.com/Santaanadev/trevo-agendamento-saas-demo)
 
----
+## Outros projetos
 
-### 📂 Outros projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [ERP Escolar](https://github.com/Santaanadev/erp-escola-py) | Sistema de gestão escolar com cadastro, banco de dados e registro de logs | Python · SQLite |
+- [ERP Escolar](https://github.com/Santaanadev/erp-escola-py): sistema de gestão escolar em Python com banco SQLite.
